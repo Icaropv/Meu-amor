@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@font-face {
+    font-family: 'PassionOne';
+    src: url(./assets/fonts/PassionOne-Bold.ttf);
+}
