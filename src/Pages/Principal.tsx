@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Card from '../Components/Card'
 import fotoBuque  from '../assets/images/fotoBuque.jpeg'
 import foto1  from '../assets/images/foto1.jpeg'
 import foto2  from '../assets/images/foto2.jpeg'
 import foto3  from '../assets/images/foto3.jpeg'
-import font from '../assets/fonts/PassionOne-Bold.ttf'
+
 
 const Principal = () => {
     const startDate = new Date("2022-10-5"); // Coloque a data do início do relacionamento (ano-mês-dia)
